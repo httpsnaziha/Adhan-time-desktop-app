@@ -80,12 +80,5 @@ python Adhan.py</code></pre>
   <li>Prayer time calculation method is currently fixed to <strong>Moon Sighting Committee</strong>; other methods supported by <code>adhanpy</code> could be added as a setting in the future.</li>
   <li>Built and distributed for Windows via PyInstaller; other platforms would need to run it from source.</li>
 </ul>
- 
-<h2>License</h2>
-<p>No license specified yet — consider adding one (e.g. MIT) if you plan to share or accept contributions.</p>
- 
 </body>
 </html>
-
-
-<img width="596" height="398" alt="Capture d’écran 2026-07-21 133654" src="https://github.com/user-attachments/assets/4fc473d6-b56c-40d0-9611-45ef85c1bb4b" />
